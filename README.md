@@ -3,7 +3,7 @@
 
 
 ## 浅谈TG  
-[Youtube破解版](https://github.com/MiRO92/uYou-for-YouTube)  
+[Youtube破解版下载](https://github.com/MiRO92/uYou-for-YouTube)  
 telegram（TG）在中国也叫电报，是个国外的聊天工具，提供频道、群组、机器人等功能。这里收集了多种功能不同的机器人，机器人可以帮助管理群组，可以提供翻译，可以代下文件，可以提醒网站更新等。
 
 TG的官网已经被墙了，所以这篇文章提供的链接可能无法正常访问，需要自备梯子。如果你已经使用TG代理，可以自由使用TG但没有全局代理无法访问网页，可以直接复制 @机器人名 到TG里自行搜索使用TG机器人。
@@ -20,86 +20,91 @@ bot机器人的使用命令在聊天发送框输入“/”后会有提示。/hel
 * @qunzudaquan_bot 【TG群组频道导航机器人 – @qunzudaquan_bot】：添加 @qunzudaquan_bot 到你的群组自动收录，私聊发送你的群组频道公开链接到：@qunzudaquan_bot，未收录或更新资料发送/update
 * @zh_groups_bot 【TGCN-群组索引计划】：收录群组的，本来有个非常好用的推荐频道，可惜目前因有人滥用已停用频道推荐功能。
 
-群组抽奖机器人
-@tgLotteryBot：抽奖助手机器人
-@LotteryHelperBot：抽奖助手机器人
-@Grinx_bot：幸运抽奖助手
-@fengdrawbot：抽奖机器人
-@cnLottery_bot：Telegram 抽奖助手@Lottery_home Telegram 抽奖活动导航，想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。
+## 群组抽奖机器人
+* @tgLotteryBot：抽奖助手机器人
+* @LotteryHelperBot：抽奖助手机器人
+* @Grinx_bot：幸运抽奖助手
+* @fengdrawbot：抽奖机器人
+* @cnLottery_bot：Telegram 抽奖助手
+* @Lottery_home Telegram 抽奖活动导航，想白嫖的推荐关注，想推广群组的在自己群使用bot创建抽奖后可以选择是否推荐到这个频道。
 
-协助管理群组机器人验证
-@P4CaptchaBot
-@group_confirmation_bot 验证机器人，四个汉字验证码
-@tgcnjoincaptchabot：加群验证,杀广告
-@TGreCAPTCHABot：给 Telegram 群组用的 reCAPTCHA 验证码
-@jqs7zweibot：加群验证码
-@policr_bot：加群验证,用户可以自定义问题
-@FengDoorBot：欢迎消息，消息自毁，进群验证
-@orgrobot：进群验证问题,群管可自定义验证问题,以后可能收费
-@fuckuspambot：过滤机器人已经支持入群的时候使用谷歌人机验证了。
-@shieldy_bot：入群验证bot
-@toorucaptchabot：一个简单的加减法运算入群验证机器人
+## 协助管理群组机器人验证
+* @P4CaptchaBot
+* @group_confirmation_bot 验证机器人，四个汉字验证码
+* @tgcnjoincaptchabot：加群验证,杀广告
+* @TGreCAPTCHABot：给 Telegram 群组用的 reCAPTCHA 验证码
+* @jqs7zweibot：加群验证码
+* @policr_bot：加群验证,用户可以自定义问题
+* @FengDoorBot：欢迎消息，消息自毁，进群验证
+* @orgrobot：进群验证问题,群管可自定义验证问题,以后可能收费
+* @fuckuspambot：过滤机器人已经支持入群的时候使用谷歌人机验证了。
+* @shieldy_bot：入群验证bot
+* @toorucaptchabot：一个简单的加减法运算入群验证机器人
 
-欢迎
-@RealApolloBot
-@WTFisBot
-@jh0ker_welcomebot
+## 欢迎
+* @RealApolloBot
+* @WTFisBot
+* @jh0ker_welcomebot
 
-广告拦截
-@adnamekillerbot：长名广告专杀
-@AutoRestrictBot：限制新群员
-@AntiServiceMessageBot：I remove join/leave messages in groups and supergroups.
-看门
-@WatchDoorBot：可禁止发送指定类型的信息,用于避免恶意举报,官方地址https://hackmd.io/s/BkwAIgrL7
-昵称
-@UNameBot：在使用者忘記設定 username 時發送提醒訊息
-@SangMata_BOT：放入群组可以监控群里用户名字更改记录
-骂人
-@the_jbot
+## 广告拦截
+* @adnamekillerbot：长名广告专杀
+* @AutoRestrictBot：限制新群员
+* @AntiServiceMessageBot：I remove join/leave messages in groups and supergroups.
 
-管理
-@littleGuardianBot
-@telemethebot：群管bot (收费) ,可自动应答,定时广播,分析群数据
-@xxdamage2bot
-@YuanEnBot
-@HomelandSecurity_Bot：中文
-@GroupButler_bot：多语言
-@GBReborn_bot：多语言
-@SCP_079_BOT：是一个防 Spam 机器人
-@combot：丰富的群管功能,但要收费,分析功能不收费
-@baymax_en_bot：设置每天禁言时间,删除少于指定字数的发言,删除指定时间内的重复发言,邀请指定人数后才能发言,指定频道成员才能发言,过滤关键字,禁止发特定类型消息,
-@Coolestbot：群管bot
-@delete_media_bot 夜间删除媒体机器人：聊天群添加此机器人，群内北京时间24点到7点只能展现语音和文字，发送其他媒体将被删除，其他时间段不限制
-禁贴图
-@nosticker_bot：删除sticker
-举报
-@TgAntiReportBot
-@tgcnbot:通过投票举报违规消息
+## 看门
+* @WatchDoorBot：可禁止发送指定类型的信息,用于避免恶意举报,官方地址https://hackmd.io/s/BkwAIgrL7
 
-群组统计
-@typcn_soliloquize_bot：分析群员群活跃程度
-@CNBlackListRBot：黑名单机器人
-@MessageAnalystBot
-@hj_util_bot
+## 昵称
+* @UNameBot：在使用者忘記設定 username 時發送提醒訊息
+* @SangMata_BOT：放入群组可以监控群里用户名字更改记录
 
-自动回复
-@fengfaqbot 群主の蜜 – 雪儿：群主秘书,自动回复消息,自动删除脏话
-@keyword_reply_bot 这个我知道 – 关键词机器人：自动回复关键词对应的内容,删除含关键词的消息。GitHub
-@MissRose_bot Rose：英文群管理bot,可以自动回复关键字,限制特定时间内发言数量等众多功能
+## 骂人
+* @the_jbot
 
-匿名发布
-@Anonymous_telegram_bot:匿名发言机器人，邀请它进群组，然后把想匿名发布的内容私聊发给机器人bot，然后选择要发送匿名消息的群组，机器人会帮你发消息到此群组
-@mirroring_bot:发给bot的话会重新发回来,用于隐藏原始发言人。它会原封不动的回复你发的内容，然后转发给别人，别人只能看到发布人是这个机器人
+## 管理
+* @littleGuardianBot
+* @telemethebot：群管bot (收费) ,可自动应答,定时广播,分析群数据
+* @xxdamage2bot
+* @YuanEnBot
+* @HomelandSecurity_Bot：中文
+* @GroupButler_bot：多语言
+* @GBReborn_bot：多语言
+* @SCP_079_BOT：是一个防 Spam 机器人
+* @combot：丰富的群管功能,但要收费,分析功能不收费
+* @baymax_en_bot：设置每天禁言时间,删除少于指定字数的发言,删除指定时间内的重复发言,邀请指定人数后才能发言,指定频道成员才能发言,过滤关键字,禁止发特定类型消息,
+* @Coolestbot：群管bot
+* @delete_media_bot 夜间删除媒体机器人：聊天群添加此机器人，群内北京时间24点到7点只能展现语音和文字，发送其他媒体将被删除，其他时间段不限制
+禁贴图  
+* @nosticker_bot：删除sticker
+举报  
+* @TgAntiReportBot
+* @tgcnbot:通过投票举报违规消息
 
-视频发布
-@kaiche123bot 开车机器人：色情视频发布机器人，开车命令 /kc，可设置自己的广告
-@kaiche888_bot 老司机开车：色情机器人，开车bot，提供随机开车功能 /stochastic
-@PornWiki_bot 青涩百科：成人视频发布机器人，开车命令 /video
-@sex_video_share_bot：这个机器人不能显示，因为它是用来传播色情内容的。不知道还能不能用
-@Happy_SLYBot 舒服的機器人：好像不是群用的机器人，会引导到外站观看视频（被墙的网站）
-@Hentai_rbot Hentai XXX：收录了日本最著名的Milky、Sakura Films、Discovery、Bootleg Label等公司的独家未经审查的动画片。视频没有中文字幕
-图片发布
-@xiannvgong_bot 仙女宫：套图发布机器人（非漏点图片），/hello 随机9张写真，/all 随机一整套写真（流量慎用，试用了一次发来130张）
+## 群组统计
+* @typcn_soliloquize_bot：分析群员群活跃程度
+* @CNBlackListRBot：黑名单机器人
+* @MessageAnalystBot
+* @hj_util_bot
+
+## 自动回复
+* @fengfaqbot 群主の蜜 – 雪儿：群主秘书,自动回复消息,自动删除脏话
+* @keyword_reply_bot 这个我知道 – 关键词机器人：自动回复关键词对应的内容,删除含关键词的消息。GitHub
+* @MissRose_bot Rose：英文群管理bot,可以自动回复关键字,限制特定时间内发言数量等众多功能
+
+## 匿名发布
+* @Anonymous_telegram_bot:匿名发言机器人，邀请它进群组，然后把想匿名发布的内容私聊发给机器人bot，然后选择要发送匿名消息的群组，机器人会帮你发消息到此群组
+* @mirroring_bot:发给bot的话会重新发回来,用于隐藏原始发言人。它会原封不动的回复你发的内容，然后转发给别人，别人只能看到发布人是这个机器人
+
+## 视频发布
+* @kaiche123bot 开车机器人：色情视频发布机器人，开车命令 /kc，可设置自己的广告
+* @kaiche888_bot 老司机开车：色情机器人，开车bot，提供随机开车功能 /stochastic
+* @PornWiki_bot 青涩百科：成人视频发布机器人，开车命令 /video
+* @sex_video_share_bot：这个机器人不能显示，因为它是用来传播色情内容的。不知道还能不能用
+* @Happy_SLYBot 舒服的機器人：好像不是群用的机器人，会引导到外站观看视频（被墙的网站）
+* @Hentai_rbot Hentai XXX：收录了日本最著名的Milky、Sakura Films、Discovery、Bootleg Label等公司的独家未经审查的动画片。视频没有中文字幕
+
+## 图片发布
+* @xiannvgong_bot 仙女宫：套图发布机器人（非漏点图片），/hello 随机9张写真，/all 随机一整套写真（流量慎用，试用了一次发来130张）
 
 RSS订阅机器人：
 建议频道使用，群组用影响交流

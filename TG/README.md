@@ -188,19 +188,19 @@ bot机器人的使用命令在聊天发送框输入“/”后会有提示。/hel
 可自建机器人源码
 可能会和上面重复，此区域收集的是作者提供了代码，可以在自己服务器上使用的机器人
 
-@Archive_by_2049bbsBot 【网页存档机器人】：发送网址自动存档网页GitHub：https://github.com/Terminus2049/ArchiveTeleBot  
+* @Archive_by_2049bbsBot 【网页存档机器人】：发送网址自动存档网页GitHub：https://github.com/Terminus2049/ArchiveTeleBot  
 使用教程：https://github.com/Terminus2049/ArchiveTeleBot#自行部署方法  
 
-Telegram 发卡机器人GitHub：https://github.com/lulafun/tg_faka_bot  
+* Telegram 发卡机器人GitHub：https://github.com/lulafun/tg_faka_bot  
 使用教程：https://github.com/lulafun/tg_faka_bot/wiki/%E5%AE%89%E8%A3%85%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B  
 
-shell-bot：shellbot是一个远程执行 Shell 命令的 Telegram 机器人，也就是使用Linux指令，通过bot来控制你的VPS。GitHub：https://github.com/botgram/shell-bot  
+* shell-bot：shellbot是一个远程执行 Shell 命令的 Telegram 机器人，也就是使用Linux指令，通过bot来控制你的VPS。GitHub：https://github.com/botgram/shell-bot  
 使用教程：https://github.com/botgram/shell-bot#install  
 
-fclone shell bot：基于shell-bot，通过telegram机器人使用fclone转存Google drive文件。GitHub：https://github.com/cgkings/fclone_shell_bot  
+* fclone shell bot：基于shell-bot，通过telegram机器人使用fclone转存Google drive文件。GitHub：https://github.com/cgkings/fclone_shell_bot  
 使用教程：https://github.com/cgkings/fclone_shell_bot#安装步骤  
 
-@TdPmBot：全功能 Telegram 私聊机器人以及创建器。能帮助您创建和管理 Telegram 私聊机器人。GitHub：https://github.com/TdBotProject/TdPmBot  
+* @TdPmBot：全功能 Telegram 私聊机器人以及创建器。能帮助您创建和管理 Telegram 私聊机器人。GitHub：https://github.com/TdBotProject/TdPmBot  
 使用教程：https://github.com/TdBotProject/TdPmBot#安装  
 
 ## 常用机器人:下面的还没整理

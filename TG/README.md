@@ -158,7 +158,7 @@ bot机器人的使用命令在聊天发送框输入“/”后会有提示。/hel
 * @YTranslateBot:翻译
 
 ## 频道机器人bot
-投票
+## 投票
 * @channellikebot:Channel Like Bot , Utilities,这个Bot在频道中发布任何帖子后，都会自动添加带有两个投票按钮的消息。不需要别的了
 评论
 * @jogle_channel_bot：此 bot 可以为您的频道提供回复和展示评论信息的入口，从而为频道提供互动的平台。只要添加这个BOT为频道管理员，然后私聊机器人 /help 根据提示操作。
